@@ -1,5 +1,5 @@
 ### Running a scan
-
+scan -n 83171780071
 Use the `scan` command with the `-n` (or `--number`) option.
 
 ```
